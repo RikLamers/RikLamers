@@ -1,13 +1,13 @@
-### Hi, I'm Rik!
+# Hi, I'm Rik!
 
 ## Currently...
 
 I'm currently available for job opportunities. I'm a (junior) front-end Developer based in The Netherlands. I've got experience in the following:
-🟢 HTML/(S)CSS
-🟢 JavaScript
-🟢 Vue
-🟡 Angular
-🟡 React
+* 🟢 HTML/(S)CSS
+* 🟢 JavaScript
+* 🟢 Vue
+* 🟡 Angular
+* 🟡 React
 
 <!--
 **RikLamers/RikLamers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
