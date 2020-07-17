@@ -5,9 +5,6 @@
 I'm currently available for job opportunities. I'm a (junior) front-end Developer based in The Netherlands.
 
 Things I do:
-* HTML/CSS
-* JavaScript
-* Vue
 * <img src="/svg/dev/languages/html.svg" alt="HTML5" />
 * <img src="/svg/dev/languages/css3.svg" alt="CSS3" />/<img src="/svg/dev/languages/sass.svg" alt="SASS" />
 * <img src="/svg/dev/languages/js.svg" alt="JS" />
@@ -26,30 +23,29 @@ Things I find interesting:
 * <img src="/svg/dev/languages/python.svg" alt="Python" />
 * <img src="/svg/dev/services/aws.svg" alt="AWS" />
 
-<!-- <a href="https://www.linkedin.com/in/rik-lamers-9332a8a9/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a> -->
-
 <!-- Follow my blogposts on dev.to:
-<a href="#">
+<a href="#" target="_blank">
     <img src="/svg/blogs/devto.svg" alt="ddev.to" />
 </a> -->
 
 Socials:
-<a href="#">
+
+<a href="#" target="_blank">
     <img src="/svg/social/email_me.svg" alt="e-mail" />
 </a>
-<a href="#">
+<a href="https://www.linkedin.com/in/rik-lamers-9332a8a9/" target="_blank">
     <img src="/svg/social/linkedin.svg" alt="LinkedIn" />
 </a>
-<a href="#">
+<a href="#" target="_blank">
     <img src="/svg/social/stackoverflow.svg" alt="StackOverflow" />
 </a>
-<a href="#">
+<a href="#" target="_blank">
     <img src="/svg/streaming/twitch.svg" alt="Twitch" />
 </a>
-<a href="#">
+<a href="#" target="_blank">
     <img src="/svg/streaming/youtube.svg" alt="YouTube" />
 </a>
-<a href="#">
+<a href="#" target="_blank">
     <img src="/svg/social/untappd.svg" alt="untappd" />
 </a>
 
