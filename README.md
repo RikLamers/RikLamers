@@ -2,12 +2,16 @@
 
 ## Currently...
 
-I'm currently available for job opportunities. I'm a (junior) front-end Developer based in The Netherlands. I've got experience in the following:
-* 🟢 HTML/(S)CSS
-* 🟢 JavaScript
-* 🟢 Vue
-* 🟡 Angular
-* 🟡 React
+I'm currently available for job opportunities. I'm a (junior) front-end Developer based in The Netherlands.
+
+Things I do:
+* HTML/CSS
+* JavaScript
+* Vue
+
+I've got experience in:
+* Angular
+* React
 
 <a href="https://www.linkedin.com/in/rik-lamers-9332a8a9/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 
