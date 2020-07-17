@@ -36,16 +36,14 @@ Socials:
 <a href="https://www.linkedin.com/in/rik-lamers-9332a8a9/" target="_blank">
     <img src="/svg/social/linkedin.svg" alt="LinkedIn" />
 </a>
-
-
+<br />
 <a href="#" target="_blank">
     <img src="/svg/social/stackoverflow.svg" alt="StackOverflow" />
 </a>
 <a href="#" target="_blank">
     <img src="/svg/streaming/twitch.svg" alt="Twitch" />
 </a>
-
-
+<br />
 <a href="#" target="_blank">
     <img src="/svg/streaming/youtube.svg" alt="YouTube" />
 </a>
