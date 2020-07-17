@@ -6,7 +6,7 @@ I'm currently available for job opportunities. I'm a (junior) front-end Develope
 
 Things I do:
 * <img src="/svg/dev/languages/html.svg" alt="HTML5" />
-* <img src="/svg/dev/languages/css3.svg" alt="CSS3" />/<img src="/svg/dev/languages/sass.svg" alt="SASS" />
+* <img src="/svg/dev/languages/css3.svg" alt="CSS3" /><img src="/svg/dev/languages/sass.svg" alt="SASS" />
 * <img src="/svg/dev/languages/js.svg" alt="JS" />
 * <img src="/svg/dev/frameworks/vue.svg" alt="Vue" />
 * <img src="/svg/dev/services/npm.svg" alt="NPM" />
@@ -36,12 +36,14 @@ Socials:
 <a href="https://www.linkedin.com/in/rik-lamers-9332a8a9/" target="_blank">
     <img src="/svg/social/linkedin.svg" alt="LinkedIn" />
 </a>
+
 <a href="#" target="_blank">
     <img src="/svg/social/stackoverflow.svg" alt="StackOverflow" />
 </a>
 <a href="#" target="_blank">
     <img src="/svg/streaming/twitch.svg" alt="Twitch" />
 </a>
+
 <a href="#" target="_blank">
     <img src="/svg/streaming/youtube.svg" alt="YouTube" />
 </a>
