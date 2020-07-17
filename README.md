@@ -37,12 +37,14 @@ Socials:
     <img src="/svg/social/linkedin.svg" alt="LinkedIn" />
 </a>
 
+
 <a href="#" target="_blank">
     <img src="/svg/social/stackoverflow.svg" alt="StackOverflow" />
 </a>
 <a href="#" target="_blank">
     <img src="/svg/streaming/twitch.svg" alt="Twitch" />
 </a>
+
 
 <a href="#" target="_blank">
     <img src="/svg/streaming/youtube.svg" alt="YouTube" />
