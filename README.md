@@ -15,7 +15,7 @@ I've got experience in:
 
 <a href="https://www.linkedin.com/in/rik-lamers-9332a8a9/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RikLamers)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **RikLamers/RikLamers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
