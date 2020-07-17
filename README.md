@@ -13,6 +13,7 @@ Things I do:
     <img src="https://raw.githubusercontent.com/RikLamers/RikLamers/master/svg/dev/languages/css3.svg" alt="CSS3" />
 </span>
 <br />
+
 <span>
     <img src="https://raw.githubusercontent.com/RikLamers/RikLamers/master/svg/dev/languages/sass.svg" alt="SASS" />
 </span>
@@ -20,6 +21,7 @@ Things I do:
     <img src="https://raw.githubusercontent.com/RikLamers/RikLamers/master/svg/dev/languages/js.svg" alt="JS" />
 </span>
 <br />
+
 <span>
     <img src="https://raw.githubusercontent.com/RikLamers/RikLamers/master/svg/dev/frameworks/vue.svg" alt="Vue" />
 </span>
@@ -27,24 +29,41 @@ Things I do:
     <img src="https://raw.githubusercontent.com/RikLamers/RikLamers/master/svg/dev/services/npm.svg" alt="NPM" />
 </span>
 <br />
+
 <span>
     <img src="https://raw.githubusercontent.com/RikLamers/RikLamers/master/svg/dev/tools/visualstudio_code.svg" alt="VS Code" />
 </span>
 
 I've got experience in:
 
-<img src="https://raw.githubusercontent.com/RikLamers/RikLamers/master/svg/dev/frameworks/angular.svg" alt="Angular" />
-<img src="https://raw.githubusercontent.com/RikLamers/RikLamers/master/svg/dev/frameworks/react.svg" alt="React" />
+<span>
+    <img src="https://raw.githubusercontent.com/RikLamers/RikLamers/master/svg/dev/frameworks/angular.svg" alt="Angular" />
+</span>
+<span>
+    <img src="https://raw.githubusercontent.com/RikLamers/RikLamers/master/svg/dev/frameworks/react.svg" alt="React" />
+</span>
 <br />
-<img src="https://raw.githubusercontent.com/RikLamers/RikLamers/master/svg/dev/services/codewars.svg" alt="Codewars" />
+
+<span>
+    <img src="https://raw.githubusercontent.com/RikLamers/RikLamers/master/svg/dev/services/codewars.svg" alt="Codewars" />
+</span>
 
 Things I find interesting:
 
-<img src="https://raw.githubusercontent.com/RikLamers/RikLamers/master/svg/dev/frameworks/flutter.svg" alt="Flutter" />
-<img src="https://raw.githubusercontent.com/RikLamers/RikLamers/master/svg/dev/frameworks/nodejs_larger.svg" alt="Node.js" />
+<span>
+    <img src="https://raw.githubusercontent.com/RikLamers/RikLamers/master/svg/dev/frameworks/flutter.svg" alt="Flutter" />
+</span>
+<span>
+    <img src="https://raw.githubusercontent.com/RikLamers/RikLamers/master/svg/dev/frameworks/nodejs_larger.svg" alt="Node.js" />
+</span>
 <br />
-<img src="https://raw.githubusercontent.com/RikLamers/RikLamers/master/svg/dev/languages/python.svg" alt="Python" />
-<img src="https://raw.githubusercontent.com/RikLamers/RikLamers/master/svg/dev/services/aws.svg" alt="AWS" />
+
+<span>
+    <img src="https://raw.githubusercontent.com/RikLamers/RikLamers/master/svg/dev/languages/python.svg" alt="Python" />
+</span>
+<span>
+    <img src="https://raw.githubusercontent.com/RikLamers/RikLamers/master/svg/dev/services/aws.svg" alt="AWS" />
+</span>
 
 Socials:
 
