@@ -10,19 +10,23 @@ Things I do:
     <img src="https://raw.githubusercontent.com/RikLamers/RikLamers/master/svg/dev/languages/html.svg" alt="HTML5" />
 </span>
 <span>
-    <img src="https://raw.githubusercontent.com/RikLamers/RikLamers/master/svg/dev/languages/css3.svg" alt="CSS3" /><img src="https://raw.githubusercontent.com/RikLamers/RikLamers/master/svg/dev/languages/sass.svg" alt="SASS" />
+    <img src="https://raw.githubusercontent.com/RikLamers/RikLamers/master/svg/dev/languages/css3.svg" alt="CSS3" />
 </span>
 <br />
+<span>
+    <img src="https://raw.githubusercontent.com/RikLamers/RikLamers/master/svg/dev/languages/sass.svg" alt="SASS" />
+</span>
 </span>
     <img src="https://raw.githubusercontent.com/RikLamers/RikLamers/master/svg/dev/languages/js.svg" alt="JS" />
 </span>
+<br />
 <span>
     <img src="https://raw.githubusercontent.com/RikLamers/RikLamers/master/svg/dev/frameworks/vue.svg" alt="Vue" />
 </span>
-<br />
 <span>
     <img src="https://raw.githubusercontent.com/RikLamers/RikLamers/master/svg/dev/services/npm.svg" alt="NPM" />
 </span>
+<br />
 <span>
     <img src="https://raw.githubusercontent.com/RikLamers/RikLamers/master/svg/dev/tools/visualstudio_code.svg" alt="VS Code" />
 </span>
