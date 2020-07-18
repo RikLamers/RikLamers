@@ -6,87 +6,107 @@ I'm currently available for job opportunities. I'm a (junior) front-end Develope
 
 Things I do:
 
-<span>
-    <img src="https://raw.githubusercontent.com/RikLamers/RikLamers/master/svg/dev/languages/html.svg" alt="HTML5" />
-</span>
-<span>
-    <img src="https://raw.githubusercontent.com/RikLamers/RikLamers/master/svg/dev/languages/css3.svg" alt="CSS3" />
-</span>
-<br />
+<div>
+    <span>
+        <img src="https://raw.githubusercontent.com/RikLamers/RikLamers/master/svg/dev/languages/html.svg" alt="HTML5" />
+    </span>
+    <span>
+        <img src="https://raw.githubusercontent.com/RikLamers/RikLamers/master/svg/dev/languages/css3.svg" alt="CSS3" />
+    </span>
+</div>
 
-<span>
-    <img src="https://raw.githubusercontent.com/RikLamers/RikLamers/master/svg/dev/languages/sass.svg" alt="SASS" />
-</span>
-</span>
-    <img src="https://raw.githubusercontent.com/RikLamers/RikLamers/master/svg/dev/languages/js.svg" alt="JS" />
-</span>
-<br />
+<div>
+    <span>
+        <img src="https://raw.githubusercontent.com/RikLamers/RikLamers/master/svg/dev/languages/sass.svg" alt="SASS" />
+    </span>
+    </span>
+        <img src="https://raw.githubusercontent.com/RikLamers/RikLamers/master/svg/dev/languages/js.svg" alt="JS" />
+    </span>
+</div>
 
-<span>
-    <img src="https://raw.githubusercontent.com/RikLamers/RikLamers/master/svg/dev/frameworks/vue.svg" alt="Vue" />
-</span>
-<span>
-    <img src="https://raw.githubusercontent.com/RikLamers/RikLamers/master/svg/dev/services/npm.svg" alt="NPM" />
-</span>
-<br />
+<div>
+    <span>
+        <img src="https://raw.githubusercontent.com/RikLamers/RikLamers/master/svg/dev/frameworks/vue.svg" alt="Vue" />
+    </span>
+    <span>
+        <img src="https://raw.githubusercontent.com/RikLamers/RikLamers/master/svg/dev/services/npm.svg" alt="NPM" />
+    </span>
+</div>
 
-<span>
-    <img src="https://raw.githubusercontent.com/RikLamers/RikLamers/master/svg/dev/tools/visualstudio_code.svg" alt="VS Code" />
-</span>
+<div>
+    <span>
+        <img src="https://raw.githubusercontent.com/RikLamers/RikLamers/master/svg/dev/tools/visualstudio_code.svg" alt="VS Code" />
+    </span>
+</div>
+
 
 I've got experience in:
 
-<span>
-    <img src="https://raw.githubusercontent.com/RikLamers/RikLamers/master/svg/dev/frameworks/angular.svg" alt="Angular" />
-</span>
-<span>
-    <img src="https://raw.githubusercontent.com/RikLamers/RikLamers/master/svg/dev/frameworks/react.svg" alt="React" />
-</span>
-<br />
+<div>
+    <span>
+        <img src="https://raw.githubusercontent.com/RikLamers/RikLamers/master/svg/dev/frameworks/angular.svg" alt="Angular" />
+    </span>
+    <span>
+        <img src="https://raw.githubusercontent.com/RikLamers/RikLamers/master/svg/dev/frameworks/react.svg" alt="React" />
+    </span>
+</div>
 
-<span>
-    <img src="https://raw.githubusercontent.com/RikLamers/RikLamers/master/svg/dev/services/codewars.svg" alt="Codewars" />
-</span>
+<div>
+    <span>
+        <img src="https://raw.githubusercontent.com/RikLamers/RikLamers/master/svg/dev/services/codewars.svg" alt="Codewars" />
+    </span>
+</div>
+
 
 Things I find interesting:
 
-<span>
-    <img src="https://raw.githubusercontent.com/RikLamers/RikLamers/master/svg/dev/frameworks/flutter.svg" alt="Flutter" />
-</span>
-<span>
-    <img src="https://raw.githubusercontent.com/RikLamers/RikLamers/master/svg/dev/frameworks/nodejs_larger.svg" alt="Node.js" />
-</span>
-<br />
+<div>
+    <span>
+        <img src="https://raw.githubusercontent.com/RikLamers/RikLamers/master/svg/dev/frameworks/flutter.svg" alt="Flutter" />
+    </span>
+    <span>
+        <img src="https://raw.githubusercontent.com/RikLamers/RikLamers/master/svg/dev/frameworks/nodejs_larger.svg" alt="Node.js" />
+    </span>
+</div>
 
-<span>
-    <img src="https://raw.githubusercontent.com/RikLamers/RikLamers/master/svg/dev/languages/python.svg" alt="Python" />
-</span>
-<span>
-    <img src="https://raw.githubusercontent.com/RikLamers/RikLamers/master/svg/dev/services/aws.svg" alt="AWS" />
-</span>
+<div>
+    <span>
+        <img src="https://raw.githubusercontent.com/RikLamers/RikLamers/master/svg/dev/languages/python.svg" alt="Python" />
+    </span>
+    <span>
+        <img src="https://raw.githubusercontent.com/RikLamers/RikLamers/master/svg/dev/services/aws.svg" alt="AWS" />
+    </span>
+</div>
+
 
 Socials:
 
-<a href="#" target="_blank">
-    <img src="https://raw.githubusercontent.com/RikLamers/RikLamers/master/svg/social/email_me.svg" alt="e-mail" />
-</a>
-<a href="https://www.linkedin.com/in/rik-lamers-9332a8a9/" target="_blank">
-    <img src="https://raw.githubusercontent.com/RikLamers/RikLamers/master/svg/social/linkedin.svg" alt="LinkedIn" />
-</a>
-<br />
-<a href="#" target="_blank">
-    <img src="https://raw.githubusercontent.com/RikLamers/RikLamers/master/svg/social/stackoverflow.svg" alt="StackOverflow" />
-</a>
-<a href="#" target="_blank">
-    <img src="https://raw.githubusercontent.com/RikLamers/RikLamers/master/svg/streaming/twitch.svg" alt="Twitch" />
-</a>
-<br />
-<a href="#" target="_blank">
-    <img src="https://raw.githubusercontent.com/RikLamers/RikLamers/master/svg/streaming/youtube.svg" alt="YouTube" />
-</a>
-<a href="#" target="_blank">
-    <img src="https://raw.githubusercontent.com/RikLamers/RikLamers/master/svg/social/untappd.svg" alt="untappd" />
-</a>
+<div>
+    <a href="#" target="_blank">
+        <img src="https://raw.githubusercontent.com/RikLamers/RikLamers/master/svg/social/email_me.svg" alt="e-mail" />
+    </a>
+    <a href="https://www.linkedin.com/in/rik-lamers-9332a8a9/" target="_blank">
+        <img src="https://raw.githubusercontent.com/RikLamers/RikLamers/master/svg/social/linkedin.svg" alt="LinkedIn" />
+    </a>
+</div>
+
+<div>
+    <a href="#" target="_blank">
+        <img src="https://raw.githubusercontent.com/RikLamers/RikLamers/master/svg/social/stackoverflow.svg" alt="StackOverflow" />
+    </a>
+    <a href="#" target="_blank">
+        <img src="https://raw.githubusercontent.com/RikLamers/RikLamers/master/svg/streaming/twitch.svg" alt="Twitch" />
+    </a>
+</div>
+
+<div>
+    <a href="#" target="_blank">
+        <img src="https://raw.githubusercontent.com/RikLamers/RikLamers/master/svg/streaming/youtube.svg" alt="YouTube" />
+    </a>
+    <a href="#" target="_blank">
+        <img src="https://raw.githubusercontent.com/RikLamers/RikLamers/master/svg/social/untappd.svg" alt="untappd" />
+    </a>
+</div>
 
 <!-- Follow my blogposts on dev.to:
 <a href="#" target="_blank">
