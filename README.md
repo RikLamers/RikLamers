@@ -108,6 +108,9 @@ I'm currently available for job opportunities. I'm a (junior) front-end Develope
     </a>
 </div>
 
+<br />
+<br />
+
 <!-- Follow my blogposts on dev.to:
 <a href="#" target="_blank">
     <img src="https://raw.githubusercontent.com/RikLamers/RikLamers/master/svg/blogs/devto.svg" alt="ddev.to" />
