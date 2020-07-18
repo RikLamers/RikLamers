@@ -55,6 +55,9 @@ I'm currently available for job opportunities. I'm a (junior) front-end Develope
     <span>
         <img src="https://raw.githubusercontent.com/RikLamers/RikLamers/master/svg/dev/services/codewars.svg" alt="Codewars" />
     </span>
+    <span>
+        <img src="https://raw.githubusercontent.com/RikLamers/RikLamers/master/svg/dev/languages/ts.svg" alt="TS" />
+    </span>
 </div>
 
 
