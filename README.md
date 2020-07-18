@@ -4,7 +4,7 @@
 
 I'm currently available for job opportunities. I'm a (junior) front-end Developer based in The Netherlands.
 
-Things I do:
+### Things I do:
 
 <div>
     <span>
@@ -40,7 +40,7 @@ Things I do:
 </div>
 
 
-I've got experience in:
+### I've got experience in:
 
 <div>
     <span>
@@ -58,7 +58,7 @@ I've got experience in:
 </div>
 
 
-Things I find interesting:
+### Things I find interesting:
 
 <div>
     <span>
@@ -79,7 +79,7 @@ Things I find interesting:
 </div>
 
 
-Socials:
+### Socials:
 
 <div>
     <a href="#" target="_blank">
