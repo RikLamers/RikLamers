@@ -2,7 +2,7 @@
 
 ## Currently...
 
-I'm currently available for job opportunities. I'm a (junior) front-end Developer based in The Netherlands.
+I'm a (junior) front-end Developer based in The Netherlands.
 
 ### Things I do:
 
