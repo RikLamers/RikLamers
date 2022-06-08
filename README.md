@@ -4,6 +4,8 @@
 
 I'm a (junior) front-end Developer based in The Netherlands.
 
+[![wakatime](https://wakatime.com/badge/user/71e5d3a3-4804-4d91-bc06-aad779be2494.svg)](https://wakatime.com/@71e5d3a3-4804-4d91-bc06-aad779be2494)
+
 ### Things I do:
 
 <div>
