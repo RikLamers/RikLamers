@@ -4,7 +4,7 @@
 
 I'm a (junior) front-end Developer based in The Netherlands.
 
-Since 19 July, 2019 I coded for:
+I started coding in 2015 but only tracked this since 19 July, 2019. Since then I coded for:
 [![wakatime](https://wakatime.com/badge/user/71e5d3a3-4804-4d91-bc06-aad779be2494.svg)](https://wakatime.com/@71e5d3a3-4804-4d91-bc06-aad779be2494)
 
 ### Things I do:
