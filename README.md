@@ -1,7 +1,5 @@
 # 👋 fellow coder
 
-## Currently...
-
 I'm a web developer based in The Netherlands, working on great projects for [@51north](https://www.51north.nl).
 
 I started coding in 2015 but only tracked this since 19 July, 2019. Since then I coded for:
