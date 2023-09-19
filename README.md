@@ -13,7 +13,9 @@ This plugin only tracks time spend within visual studio code.
 ### Things I like besides coding:
 
 <div>Beer</div>
-<img src="https://raw.githubusercontent.com/RikLamers/RikLamers/master/svg/social/untappd.svg" alt="untappd" />
+<div>
+    <img src="https://raw.githubusercontent.com/RikLamers/RikLamers/master/svg/social/untappd.svg" alt="untappd" />
+</div>
 
 <!--
 ### Things I do:
