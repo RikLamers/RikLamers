@@ -1,4 +1,4 @@
-# Hi, I'm Rik!
+# 👋 fellow coder
 
 ## Currently...
 
@@ -16,6 +16,8 @@ This plugin only tracks time spend within visual studio code.
 <div>
     <img src="https://raw.githubusercontent.com/RikLamers/RikLamers/master/svg/social/untappd.svg" alt="untappd" />
 </div>
+
+# 🌊
 
 <!--
 ### Things I do:
