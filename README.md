@@ -2,11 +2,9 @@
 
 I'm a web developer based in The Netherlands, working on great projects for [@51north](https://www.51north.nl).
 
-I started coding in 2015 but only tracked this since 19 July, 2019. Since then I coded for:
+I started coding in 2015 but and tracked my addiction to VS Code since 19 July, 2019. I've spend some hours with my laptop in hand you can say:
 
 [![wakatime](https://wakatime.com/badge/user/71e5d3a3-4804-4d91-bc06-aad779be2494.svg)](https://wakatime.com/@71e5d3a3-4804-4d91-bc06-aad779be2494)
-
-This plugin only tracks time spend within visual studio code.
 
 ### Things I like besides coding:
 
