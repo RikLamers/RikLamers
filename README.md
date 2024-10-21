@@ -2,7 +2,7 @@
 
 I'm a web developer based in The Netherlands, working on great projects for [@51north](https://www.51north.nl).
 
-I started coding in 2015 and tracked my addiction to VS Code since 19 July, 2019. I've spend some hours with my laptop in hand you can say:
+I started coding in 2015 but only tracked my addiction to VS Code since 19 July, 2019. I've spend some hours with my laptop in hand you can say:
 
 [![wakatime](https://wakatime.com/badge/user/71e5d3a3-4804-4d91-bc06-aad779be2494.svg)](https://wakatime.com/@71e5d3a3-4804-4d91-bc06-aad779be2494)
 
